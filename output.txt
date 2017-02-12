@@ -1,0 +1,35 @@
+rgunawan$ java Driver i
+Algorithm: Insertion Sort
+              n    time(micro)          comps          moves
+             10              8             21             31 
+            100            145           2488           2588 
+           1000           2782         248500         249500 
+          10000          27205       25018723       25028723 
+         100000        2937901     2501080692     2501180692 
+rgunawan$ java Driver h
+Algorithm: Heap Sort
+              n    time(micro)          comps          moves
+             10             34            120            105 
+            100            103           2170           2020 
+           1000            462          31759          30259 
+          10000           1769         417720         402720 
+         100000          17585        5174624        5024624 
+        1000000         254541       61645763       60145763 
+rgunawan$ java Driver m
+Algorithm: Merge Sort
+              n    time(micro)          comps          moves
+             10             33             89             63 
+            100            158           1558           1290 
+           1000           3893          22071          19342 
+          10000         140056         288591         261784 
+         100000        8715292        3550207        3282685 
+        1000000     1094482244       39297212       42019730 
+rgunawan$ java Driver q
+Algorithm: Quick Sort
+              n    time(micro)          comps          moves
+             10             27             89             37 
+            100            182           1446            578 
+           1000            266          20347           8024 
+          10000           2031         253784         103727 
+         100000          17594        3087932        1263217 
+        1000000         181535       36083456       14955565 
